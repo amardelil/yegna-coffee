@@ -10,8 +10,6 @@
 |:------------:|:-------:|
 | ![Hero](images/hero.png) | ![Gallery](images/gallery.png) |
 
-*(Replace the image paths above with your actual screenshots after uploading to the `images/` folder)*
-
 ---
 
 ## ✨ Features
