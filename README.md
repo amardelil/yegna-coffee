@@ -4,10 +4,6 @@
 > Built with HTML, CSS, JavaScript, and PHP – designed to showcase products, services, and a contact form.
 
 🔗 **[Live Demo](https://amardelil.github.io/yegna-coffee)**  
-*(Update the link to your actual deployment URL)*
-
----
-
 ## 📸 Screenshots
 
 | Hero Section | Gallery |
